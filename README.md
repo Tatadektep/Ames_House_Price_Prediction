@@ -7,23 +7,8 @@ Time to learn from the best price predictive model by the reigning champions!
 
 ### [Presentation Deck](https://docs.google.com/presentation/d/1UlCZofn6LABNTLjEg3tArpQSQw4D-kPKwfdj8tL_tSE/edit?usp=sharing)
 
-### Data
-[Ames Iowa Housing dataset](https://www.kaggle.com/competitions/dsi-tda-02-project-2/data)
-
-### Problem Statement
-
-1. How much should you pay for the price of a house in Ames?
-2. # Project 2 - Ames Housing Data and Kaggle Challenge
-by ([*Chalermchon Wongsopa*](https://github.com/Chalermchon1993)) & ([*Kantaphon Vareekasem*](https://github.com/Tatadektep)) 
-
-Welcome to Ames! 
-
-Time to learn from the best price predictive model by the reigning champions!
-
-### [Presentation Deck](https://docs.google.com/presentation/d/1UlCZofn6LABNTLjEg3tArpQSQw4D-kPKwfdj8tL_tSE/edit?usp=sharing)
-
-### Data
-[Ames Iowa Housing dataset](https://www.kaggle.com/competitions/dsi-tda-02-project-2/data)
+### Dataset and Competition
+[Ames Iowa Housing Dataset and Competition](https://www.kaggle.com/competitions/dsi-tda-02-project-2/data)
 
 ### Problem Statement
 
