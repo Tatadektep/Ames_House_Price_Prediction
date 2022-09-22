@@ -2,15 +2,37 @@
 by ([*Chalermchon Wongsopa*](https://github.com/Chalermchon1993)) & ([*Kantaphon Vareekasem*](https://github.com/Tatadektep)) 
 
 Welcome to Ames! 
+
+Time to learn from the best price predictive model by the reigning champions!
+
 ### [Presentation Deck](https://docs.google.com/presentation/d/1UlCZofn6LABNTLjEg3tArpQSQw4D-kPKwfdj8tL_tSE/edit?usp=sharing)
+
+### Data
+[Ames Iowa Housing dataset](https://www.kaggle.com/competitions/dsi-tda-02-project-2/data)
 
 ### Problem Statement
 
 1. How much should you pay for the price of a house in Ames?
-2. What are the important features on sale price?
+2. # Project 2 - Ames Housing Data and Kaggle Challenge
+by ([*Chalermchon Wongsopa*](https://github.com/Chalermchon1993)) & ([*Kantaphon Vareekasem*](https://github.com/Tatadektep)) 
+
+Welcome to Ames! 
+
+Time to learn from the best price predictive model by the reigning champions!
+
+### [Presentation Deck](https://docs.google.com/presentation/d/1UlCZofn6LABNTLjEg3tArpQSQw4D-kPKwfdj8tL_tSE/edit?usp=sharing)
+
+### Data
+[Ames Iowa Housing dataset](https://www.kaggle.com/competitions/dsi-tda-02-project-2/data)
+
+### Problem Statement
+
+1. How much should you pay for the price of a house in Ames?
+2. Which features appear to add the most value to a home?
+3. What neighbourhoods seem like they might be a good investment?
 
 ### EDA
-1. Fill Missing data to 0 from Top 15 numerical features
+1. Fill Missing data to 0 from the Top 15 numerical features
 2. Remove 3 Outlier from Ground Living Area (Square Feet)\gr_liv_area variable
 
 ### Final Model
@@ -25,10 +47,16 @@ Welcome to Ames!
 
 6. Log X (Log lot area)
 
+### Business Recommendation
+Valuable Features 
+    - Numeric value: Overall Quality, Ground Living Area (Square feet), Total square feet of basement area, Garage and Year Built.
+    - Categorical value: Neighborhood, Type of Dwelling, Kitchen Quality, Basement Quality.
 
-### Data
-[Ames Iowa Housing dataset](https://www.kaggle.com/competitions/dsi-tda-02-project-2/data)
+Northridge and Stone Brook seem to be valuable neighbourhoods.
 
+The model could generalise to other cities. Yet, there might a significant difference between cities such as air conditioning for hotter cities and central heating for colder cities.
 
-### Special Thanks
-[*James Larkin*], [*Yamada Nozomi*], [*Apiwat Jaroonpol*]
+### Contributors:
+Special thanks to all the contributors who have contributed to this project. We are heartily thankful to you all.
+
+And a special thanks to *James Larkin*, *Yamada Nozomi*, and *Apiwat Jaroonpol* for their support.
